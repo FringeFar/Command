@@ -1,0 +1,11 @@
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/bin/Debug/netcoreapp2.0/Command.Class.deps.json
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/bin/Debug/netcoreapp2.0/Command.Class.runtimeconfig.json
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/bin/Debug/netcoreapp2.0/Command.Class.runtimeconfig.dev.json
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/bin/Debug/netcoreapp2.0/Command.Class.dll
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/bin/Debug/netcoreapp2.0/Command.Class.pdb
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/obj/Debug/netcoreapp2.0/Command.Class.csprojResolveAssemblyReference.cache
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/obj/Debug/netcoreapp2.0/Command.Class.csproj.CoreCompileInputs.cache
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/obj/Debug/netcoreapp2.0/Command.Class.AssemblyInfoInputs.cache
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/obj/Debug/netcoreapp2.0/Command.Class.AssemblyInfo.cs
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/obj/Debug/netcoreapp2.0/Command.Class.dll
+/Users/carlosbueno/sources/Command/Command.Class/Command.Class/obj/Debug/netcoreapp2.0/Command.Class.pdb
